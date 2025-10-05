@@ -1,24 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Prasanta Mallik</h1>
-<h3 align="center">💻 MCA Graduate | Software Testing Enthusiast | Java & Selenium Learner</h3>
-
----
-
-<!-- Typing SVG -->
 <p align="center">
-  <!-- Software Tester in Orange -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&height=60&lines=Software+Tester" />
-  
-  <!-- Automation Tester in Green -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F700&center=true&vCenter=true&width=600&height=60&lines=Automation+Tester" />
-  
-  <!-- Java | Selenium | TestNG in Blue -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00CFFF&center=true&vCenter=true&width=600&height=60&lines=Java+%7C+Selenium+%7C+TestNG" />
-  
-  <!-- API Testing | Postman in Purple -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=DA70D6&center=true&vCenter=true&width=600&height=60&lines=API+Testing+%7C+Postman" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&height=60&pause=1000&color=FF5733&color=00F700&color=00CFFF&color=DA70D6&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;" />
 </p>
-
 
 
 
