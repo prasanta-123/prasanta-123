@@ -46,7 +46,7 @@
 
   <!-- Developer GIF -->
 <p align="center">
-  <img src="https://files.catbox.moe/puwinn.gif" alt="developer coding" width="500"/>
+  <img src="https://files.catbox.moe/0tbge4.png" alt="developer coding" width="500"/>
 </p>
                  
 
