@@ -42,7 +42,7 @@
 
 ## 🌟 My Developer Journey
 
-           <!-- Developer GIF -->
+         
 
   <!-- Developer GIF -->
 <p align="center">
