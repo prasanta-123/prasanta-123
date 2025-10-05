@@ -102,7 +102,7 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href=https://www.linkedin.com/in/prasanta-mallik-a3825b319><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
 </p>
