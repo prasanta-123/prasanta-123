@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Prasanta Mallik</h1>
 <h3 align="center">💻 MCA Graduate | Software Testing Enthusiast | Java & Selenium Learner</h3>
 
+<!-- Developer GIF -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer coding" width="500"/>
+</p>
 ---
 
 <!-- Typing SVG -->
