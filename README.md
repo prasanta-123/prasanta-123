@@ -41,6 +41,15 @@
 ---
 
 ## 🌟 My Developer Journey
+
+           <!-- Developer GIF -->
+
+  <!-- Developer GIF -->
+<p align="center">
+  <img src="https://files.catbox.moe/puwinn.gif" alt="developer coding" width="500"/>
+</p>
+                 
+
 ### 🔹 Manual Testing
 - Writing test cases & scenarios  
 - Executing functional & integration tests  
