@@ -58,9 +58,20 @@
 ---
 
 ## 📌 Featured Projects
-- 📝 **[E-commerce Testing Suite](https://github.com/yourusername/project1)** → End-to-end testing with Selenium  
-- 🔐 **[Login & Signup Testing](https://github.com/yourusername/project2)** → Functional & negative test scenarios  
-- ⚡ **[API Automation](https://github.com/yourusername/project3)** → Postman collections & Newman reports  
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">SMART CITY MANAGEMENT</h3>
+      <p align="center">
+        <a href="https://github.com/prasanta-123/SmartCity-Project" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+      <p align="center">TechBlog – A Java-based Learning Platform using Servlet and JSP</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
