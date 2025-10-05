@@ -5,9 +5,17 @@
 ---
 
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&color=00F700&color=00CFFF&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;" />
-</p>
+<div align="center">
+
+# Hi 👋, I'm Prasanta Mallik  
+
+💻 *MCA Graduate | Software Testing Enthusiast | Java & Selenium Learner*
+
+---
+
+### Java | Selenium | TestNG
+
+</div>
 
 
 ---
