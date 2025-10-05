@@ -6,7 +6,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;Always+Learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;" />
 </p>
 
 ---
