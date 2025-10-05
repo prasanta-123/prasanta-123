@@ -68,7 +68,7 @@
 
 ## 📌 Featured Projects
 
-<table>
+<table align="center>
   <tr>
     <td width="50%">
       <h3 align="center">SMART CITY MANAGEMENT</h3>
