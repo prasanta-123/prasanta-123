@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Prasanta Mallik</h1>
-<h3 align="center">Manual & Automation Tester | SDLC/STLC Expert | Java | Selenium | Postman</h3>
+<h3 align="center">Quality Assurance Engineer | Manual & Automation Testing | Jira | Agile | Postman</h3>
 
 
 <!-- Typing SVG Banner -->
