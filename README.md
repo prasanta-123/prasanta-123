@@ -91,6 +91,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prasanta-123&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
