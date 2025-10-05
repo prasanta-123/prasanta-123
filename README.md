@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Prasanta Mallik  
+
+🔍 Strong knowledge of **SDLC, STLC, Manual Testing, Test Case Design, Test Scenarios Identification, and Test Case Execution**  
+📌 Skilled in **API Testing** with Postman and writing effective test cases for better coverage  
+🧪 Hands-on experience with **Automation Testing** using Java, Selenium, and TestNG  
+📚 Solid foundation in programming with Java  and Web Development.
+🚀 Building projects and practicing real-world testing scenarios to sharpen QA skills  
+🌱 Open to collaborating on software testing, automation frameworks, and QA-focused open-source projects  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/prasanta-mallik-a3825b319) 
+
 
 <!--
 **prasanta-123/prasanta-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
