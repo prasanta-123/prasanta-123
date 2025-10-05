@@ -4,8 +4,9 @@
 
 <!-- Developer GIF -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer coding" width="500"/>
+  <img src="https://files.catbox.moe/puwinn.gif" alt="developer coding" width="500"/>
 </p>
+
 ---
 
 <!-- Typing SVG -->
