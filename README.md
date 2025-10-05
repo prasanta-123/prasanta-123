@@ -1,8 +1,13 @@
 <!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Prasanta Mallik</h1>
+<h3 align="center">💻 MCA Graduate | Software Testing Enthusiast | Java & Selenium Learner</h3>
+
+---
+
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&height=60&pause=1000&color=FF5733&color=00F700&color=00CFFF&color=DA70D6&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;" />
 </p>
-
 
 
 ---
@@ -68,20 +73,3 @@
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
 </p>
-
-
-
-<!--
-**prasanta-123/prasanta-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
