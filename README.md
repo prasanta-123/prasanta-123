@@ -77,7 +77,7 @@
           <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
-      <p align="center">TechBlog – A Java-based Learning Platform using Servlet and JSP</p>
+      <p align="center">A Smart City Management Platform helps citizens and administrators manage and access services like Education, Women Safety, Healthcare, Tourism, and Traffic in one place.</p>
     </td>
   </tr>
 </table>
