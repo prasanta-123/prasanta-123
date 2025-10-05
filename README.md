@@ -19,7 +19,6 @@
 ---
 
 ## 🚀 About Me
-- 🎓 MCA Graduate  
 - 🧪 Skilled in **SDLC, STLC, Manual Testing, Test Case Design, API Testing**  
 - 💻 Exploring **Automation Testing with Java, Selenium & TestNG**  
 - 📚 Passion for **learning, problem solving & quality assurance**  
