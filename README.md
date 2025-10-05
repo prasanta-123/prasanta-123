@@ -23,7 +23,7 @@
 - 🧪 Skilled in **SDLC, STLC, Manual Testing, Test Case Design, API Testing**  
 - 💻 Exploring **Automation Testing with Java, Selenium & TestNG**  
 - 📚 Passion for **learning, problem solving & quality assurance**  
-- 🌱 Currently learning **Java Selenium Automation**  
+- 🌱 Skilled in **Java Selenium Automation**  
 - ⚡ Fun fact: I love debugging more than coding sometimes 😉
 
 ---
@@ -63,7 +63,8 @@
 
 ### 🔹 Backend/API
 - API Testing using **Postman**  
-- Basic SQL queries for validation  
+- Basic SQL queries for validation
+
 
 ---
 
