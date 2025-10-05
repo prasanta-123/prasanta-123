@@ -34,10 +34,10 @@
 - **Databases**: MySQL  
 - **Version Control**: Git, GitHub  
 - **IDE/Tools**: IntelliJ IDEA, Eclipse, JIRA, VS Code  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,mysql,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,mysql,idea,vscode,react" />
 </p>
+
 
 ---
 
