@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=750&height=60&pause=1000&color=FF5733&color=00F700&color=00CFFF&color=DA70D6&lines=Software+Tester;Manual+%26+Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;SDLC+%7C+STLC+Expertise;Bug+Hunter+%7C+Quality+Driven;Always+Learning+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=750&height=60&pause=1000&color=FF5733&color=00F700&color=00CFFF&color=DA70D6&lines=Software+Tester;Manual+%26+Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;SDLC+%7C+STLC+Expertise;Bug+Hunter+%7C+Quality" />
 </p>
 
 
