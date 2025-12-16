@@ -1,6 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Prasanta Mallik</h1>
-<h3 align="center">Quality Assurance Engineer | Manual & Automation Testing | Jira | Agile | Postman</h3>
+<!-- <h1 align="center">Hi 👋, I'm Prasanta Mallik</h1>
+<h3 align="center">Quality Assurance Engineer | Manual & Automation Testing | Jira | Agile | Postman</h3> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Prasanta%20Kumar%20Mallik&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🔍%20Software%20Tester%20|%20🤖%20Automation%20Engineer&reversal=false&textBg=false&descAlign=50&descAlignY=55&descSize=24"/>
+</div>
 
 
 <!-- Typing SVG Banner -->
